@@ -1,0 +1,2 @@
+# azurevm
+testvm
